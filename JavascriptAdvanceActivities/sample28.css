@@ -1,0 +1,103 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f4f4f4;
+
+}
+
+ 
+
+.container {
+
+    max-width: 400px;
+
+    margin: 0 auto;
+
+    background-color: #fff;
+
+    padding: 20px;
+
+    border-radius: 5px;
+
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+
+}
+
+ 
+
+h1 {
+
+    text-align: center;
+
+}
+
+ 
+
+.balance {
+
+    text-align: center;
+
+}
+
+ 
+
+.balance h2 {
+
+    font-size: 18px;
+
+}
+
+ 
+
+.transaction {
+
+    text-align: center;
+
+    margin-top: 20px;
+
+}
+
+ 
+
+label {
+
+    font-weight: bold;
+
+}
+
+ 
+
+input {
+
+    width: 100%;
+
+    padding: 5px;
+
+    margin-bottom: 10px;
+
+}
+
+ 
+
+button {
+
+    padding: 10px 20px;
+
+    background-color: #007BFF;
+
+    color: #fff;
+
+    border: none;
+
+    cursor: pointer;
+
+}
+
+ 
+
+button:hover {
+
+    background-color: #0056b3;
+
+}
